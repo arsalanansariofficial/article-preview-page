@@ -43,6 +43,8 @@ img {
   margin-inline: auto;
   max-width: 25em;
   overflow: clip;
+  scale: 0;
+  animation: appear 500ms ease-in-out forwards;
 
   @media (min-width: 40em) {
     display: flex;
