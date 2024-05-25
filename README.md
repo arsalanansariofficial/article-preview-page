@@ -21,7 +21,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Git Repository URL](https://github.com/arsalanansariofficial/product-page.git)
+- Solution URL: [Git Repository URL](https://github.com/arsalanansariofficial/article-preview-page.git)
 
 ## My process
 
