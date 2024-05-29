@@ -31,7 +31,9 @@ img {
 }
 
 .translate-0 {
+  display: flex !important;
   translate: 0 0 !important;
+  animation: appear 500ms ease-in-out forwards;
 
   @media (min-width: 40em) {
     translate: 110% -150% !important;
@@ -168,6 +170,7 @@ img {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  display: none;
   position: absolute;
   right: 0;
   bottom: 0;
